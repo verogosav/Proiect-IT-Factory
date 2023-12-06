@@ -26,4 +26,4 @@
 </ol>
 
 
-![1](/assets/images/1.png)
+![1](1.png)
