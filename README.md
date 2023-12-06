@@ -29,4 +29,4 @@
 ![My Image](1.png)
 
 
-<img height="530" src="img.path"with="940"/>
+<img height="530" src="reclama 2/2.png" with="940"/>
